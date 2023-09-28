@@ -6,8 +6,8 @@ projects:
   RulesUI:
     path: ""
     libs:
-    - src: jojoe77777/FormsUI/FormsUI
-      version: ^1.1.2
+    - src: NurAzliYT/Form-API/Form-API
+      version: ^1.0.0
     - src: thebigcrafter/Hydrogen/Hydrogen
       version: ^1.0.0
 ...
