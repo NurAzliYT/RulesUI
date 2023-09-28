@@ -21,7 +21,7 @@ command-aliases: []
 #############################
 
 # Set the KygekRulesUI title here:
-title: "KygekRulesUI"
+title: "RulesUI"
 
 # Set the KygekRulesUI content here:
 content: "Change in config.yml!"
