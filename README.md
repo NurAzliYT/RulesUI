@@ -1,4 +1,4 @@
-<h1 align="center">KygekRulesUI</h1>
+<h1 align="center">RulesUI</h1>
 
 <p align="center">
 <a href="https://poggit.pmmp.io/p/RulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/RulesUI?style=for-the-badge" alt="poggit" /></a>
@@ -8,7 +8,7 @@
 
 # 📖 About
 
-A plugin that will show your server rules in UI form. To open KygekRulesUI, simply type `/rules` in the chat.
+A plugin that will show your server rules in UI form. To open RulesUI, simply type `/rules` in the chat.
 
 # 🧩 Features
 
