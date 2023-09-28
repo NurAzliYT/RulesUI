@@ -8,7 +8,7 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat;
 use thebigcrafter\Hydrogen\HConfig;
 use thebigcrafter\Hydrogen\Hydrogen;
-use jojoe77777\FormsUI\SimpleForm;
+use NurAzliYT\Form-API\SimpleForm;
 use function str_replace;
 
 class Main extends PluginBase {
