@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Rules\RulesUI;
+namespace NurAzliYT\RulesUI;
 
 use pocketmine\player\Player;
 use pocketmine\plugin\PluginBase;
