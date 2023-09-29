@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://poggit.pmmp.io/p/RulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/RulesUI?style=for-the-badge" alt="poggit" /></a>
 <a href="https://github.com/NurAzliYT/RulesUI#GPL-3.0-1"><img src="https://img.shields.io/github/license/NurAzliYT/RulesUI?style=for-the-badge" alt="license" /></a>
-<a href="https://discord.gg/PykBfE2TZ9"><img src="https://img.shields.io/discord/1087729577004122112?color=7289DA&label=discord&logo=discord&style=for-the-badge" alt="discord" /></a>
+<a href="https://discord.gg/PykBfE2TZ9"><img src="https://img.shields.io/discord/1157233653450022992?color=7289DA&label=discord&logo=discord&style=for-the-badge" alt="discord" /></a>
 </p>
 
 # 📖 About
