@@ -8,5 +8,5 @@ website: https://github.com/NurAzliYT/RulesUI
 
 permissions:
   rulesui.rules:
-    description: Permission to use RulesUI
+    description: Permission to use RulesUI [this default]
     default: true
