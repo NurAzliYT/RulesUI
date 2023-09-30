@@ -18,7 +18,7 @@ class Main extends PluginBase {
 
 		$this->getServer()->getCommandMap()->register("RulesUI", new Commands(
 			$this, $this->getConfig()->get("command-desc"),
-			$this->getConfig()->get("command-aliases")
+			$this->getConfig()->get("command-aliases"),
 			$this->getConfig()->get("command-new")
 		));
 
