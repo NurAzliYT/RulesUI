@@ -23,7 +23,7 @@ class Main extends PluginBase {
 		));
 
 		Hydrogen::checkForUpdates($this);
-		HConfig::verifyConfigVersion($this->getConfig(),
+		HConfig::verifyConfigVersion($this->getConfig()),
 	}
 
 	public function RulesUI(Player $player) {
