@@ -1,29 +1,26 @@
 ---
-# KygekRulesUI plugin config
-# Created by Kygekraqmak and KygekTeam
-
+# RulesUI plugin config
+# Created by NurAzliYT, MauslaGames and Hounly Store
 # Use "{player}" to display player name
 # Use "&" as formatting codes
 # Use "\n" to break into a new line
 
 ##### DANGER ZONE #####
-# Do not change this (Only for internal use)!
-config-version: "2.2"
+# Don't Change Config Version!
+config-version: "1.0"
 #######################
 
 ##### COMMAND SETTINGS #####
-# Change the command description that will be shown in help pages and command suggestions
-# Leave empty to use the default command description
 command-desc: ""
 # Add command aliases for /rules command (Leave empty if you don't want to add command aliases)
 # Do not use "/" in front of the commands!
-command-aliases: []
+command-aliases: [r]
 #############################
 
-# Set the KygekRulesUI title here:
+# Set the RulesUI title here:
 title: "RulesUI"
 
-# Set the KygekRulesUI content here:
+# Set the RulesUI content here:
 content: "Change in config.yml!"
 
 # Set the KygekRulesUI button here:
