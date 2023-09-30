@@ -9,6 +9,7 @@ use pocketmine\utils\TextFormat;
 use thebigcrafter\Hydrogen\HConfig;
 use thebigcrafter\Hydrogen\Hydrogen;
 use jojoe77777\FormAPI\SimpleForm;
+use JackMD\UpdateNotifier\UpdateNotifier;
 use function str_replace;
 
 class Main extends PluginBase {
@@ -23,6 +24,8 @@ class Main extends PluginBase {
 
 		Hydrogen::checkForUpdates($this);
 		HConfig::verifyConfigVersion($this->getConfig(), "1.0");
+		UpdateNotifier::checkUpdate($this->getDescription()->getName(), $this->getDescription()->getVersion());
+		config::init($this);
 	}
 
 	public function RulesUI(Player $player) {
